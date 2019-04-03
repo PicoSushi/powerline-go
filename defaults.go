@@ -152,6 +152,9 @@ var themes = map[string]Theme{
 		TimeFg: 15,
 		TimeBg: 236,
 
+		ExecutionTimeFg: 15,
+		ExecutionTimeBg: 26,
+
 		ShellVarFg: 52,
 		ShellVarBg: 11,
 
