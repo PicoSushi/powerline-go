@@ -1,6 +1,6 @@
 #!/bin/sh
 
-FLAGS="-modules cwd,git,root"
+FLAGS="-modules cwd,git,root,execution-time"
 
 mkdir -p /tmp/home/code/dotfiles;
 cd /tmp/home/code/dotfiles/;

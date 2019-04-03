@@ -113,6 +113,7 @@ var modules = map[string](func(*powerline)){
 	"termtitle":           segmentTermTitle,
 	"terraform-workspace": segmentTerraformWorkspace,
 	"time":                segmentTime,
+	"execution-time":      segmentExectionTime,
 	"node":                segmentNode,
 	"user":                segmentUser,
 	"venv":                segmentVirtualEnv,
